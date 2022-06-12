@@ -1,0 +1,15 @@
+final errorTitle = 'Thêm vào giỏ hàng thất bại';
+final successTitle = 'Thêm vào giỏ hàng thành công';
+final successMessage = 'Giỏ hàng của bạn đã được cập nhật';
+final cartEmptyText = 'Giỏ hàng của bạn đang trống';
+final deleteText = 'Loại bỏ';
+final totalText = 'Tổng tiền';
+final shippingFeeText = 'Phí giao hàng';
+final subTotalText = 'Tổng phụ';
+final deleteCartConfirmTitleText = 'Xóa';
+final deleteCartConfirmContentText = 'Bạn có muốn xóa món ăn này không?';
+final cancelText = 'Hủy';
+final confirmText= 'Xác nhận';
+final clearCartConfirmTitleText = 'Làm sạch';
+final clearCartConfirmContentText = 'Bạn có chắc chắn muốn làm sạch giỏ hàng không?';
+final checkOutText = 'Thanh toán';

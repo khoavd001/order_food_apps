@@ -1,0 +1,1 @@
+final emptyText = 'Hông có gì ở đây hết';
